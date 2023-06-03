@@ -4,16 +4,16 @@ Welcome to the MongoDB and Mongoose Development repository! This repository is d
 
 ## 📚 Features
 
-✅ Comprehensive guide to MongoDB and Mongoose development
-✅ Detailed examples and code snippets
-✅ Best practices and performance optimization techniques
-✅ Schema design and data modeling strategies
-✅ Querying and indexing tips
-✅ Aggregation pipeline techniques
-✅ Integration with Node.js and Express.js
-✅ Error handling and debugging strategies
-✅ Testing and deployment strategies
-✅ Mongoose middleware and plugins
+#### ✅ Comprehensive guide to MongoDB and Mongoose development
+#### ✅ Detailed examples and code snippets
+#### ✅ Best practices and performance optimization techniques
+#### ✅ Schema design and data modeling strategies
+#### ✅ Querying and indexing tips
+#### ✅ Aggregation pipeline techniques
+#### ✅ Integration with Node.js and Express.js
+#### ✅ Error handling and debugging strategies
+#### ✅ Testing and deployment strategies
+#### ✅ Mongoose middleware and plugins
 
 ## ⚙️ Technologies
 
